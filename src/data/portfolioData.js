@@ -172,7 +172,7 @@ export const education = [
     achievements: [
       "Specializing in Full Stack MERN Web Development & Software Architecture.",
       "Developing production-ready web platforms alongside machine learning data models.",
-      "Strengthening expertise in Python, SQL, data structures, and application development.",
+      "Strengthening expertise in Java, SQL, data structures, and application development.",
     ],
   },
   {
