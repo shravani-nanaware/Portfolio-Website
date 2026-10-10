@@ -172,7 +172,7 @@ export const education = [
     achievements: [
       "Specializing in Full Stack MERN Web Development & Software Architecture.",
       "Developing production-ready web platforms alongside machine learning data models.",
-      "Building Waste2Worth AI platform prototype for sustainability & circular economy decisions.",
+      "Strengthening expertise in Python, SQL, data structures, and application development.",
     ],
   },
   {
@@ -188,7 +188,7 @@ export const education = [
     ],
     achievements: [
       "Secured First Class with Distinction across all semesters",
-      "Successfully presented a Capstone Project on 'Interactive Full-Stack Web App for Academic Resource Management'",
+      "Successfully presented a Capstone Project on 'Stock Price Prediction using Machine Learning'",
     ],
   },
 ];
