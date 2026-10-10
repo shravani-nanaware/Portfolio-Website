@@ -82,7 +82,7 @@ export default function Navbar({ sections }) {
           </div>
           <div>
             <span className="font-display font-extrabold text-lg tracking-tight text-slate-800 block leading-none">
-              Shrawani's <span className="text-gradient">Portfolio</span>
+              Shravani's <span className="text-gradient">Portfolio</span>
             </span>
             <span className="text-[9px] font-mono text-slate-400 tracking-widest font-semibold">FULL-STACK & ANALYTICS</span>
           </div>
