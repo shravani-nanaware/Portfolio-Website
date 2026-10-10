@@ -179,7 +179,7 @@ export default function Hero() {
 
             <div className="relative w-full h-120 rounded-[26px] overflow-hidden border border-slate-150 shadow-inner">
               <img
-                src="/src/assets/images/Portfoliophoto.png"
+                src={profilePhoto}
                 alt="Shrawani Nanaware - Portrait"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
